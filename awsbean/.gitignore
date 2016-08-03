@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+
+src/awsbean/settings/local.py
+
+*.py[cod]
+*.sqlite3
+pip-selfcheck.json
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
