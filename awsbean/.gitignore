@@ -2,8 +2,8 @@ bin/
 include/
 lib/
 
-src/awsbean/settings/local.py
-src/awsbean/settings/production.py
+src/awsbean/settings/
+
 
 *.py[cod]
 *.sqlite3
